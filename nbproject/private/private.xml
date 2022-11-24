@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Ammo.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemy.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/enemy2.png</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level3State.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/GameStateManager.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Player.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemies/Enemy1.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/deadUI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level2State.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemies/Enemy2.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/Background.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/adventureofkaolao/Game.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/enemy1.png</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Animation.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/bg_3.png</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/adventureofkaolao/GamePanel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/UI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/PassUI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level1State.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/Tile.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/MapObj.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/MenuState.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/GameState.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/TileMap.java</file>
+        </group>
+    </open-files>
+</project-private>
