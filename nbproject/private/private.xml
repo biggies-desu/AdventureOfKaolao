@@ -6,25 +6,28 @@
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Ammo.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemy.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/enemy2.png</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level3State.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/GameStateManager.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Player.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemies/Enemy1.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/deadUI.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level2State.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemies/Enemy2.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/mapsprite1.png</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/Background.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/adventureofkaolao/Game.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/enemy1.png</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Animation.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/bg_3.png</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/adventureofkaolao/GamePanel.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/UI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/bg_1.png</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/PassUI.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level1State.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/Tile.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/MapObj.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/MenuState.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level3State.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Player.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/Enemies/Enemy1.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/bg_3.png</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/adventureofkaolao/GamePanel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Entity/UI.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/Level1State.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/Resource/idle.png</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/GameState/GameState.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AdventureOfKaoLao/src/TileMap/TileMap.java</file>
         </group>
